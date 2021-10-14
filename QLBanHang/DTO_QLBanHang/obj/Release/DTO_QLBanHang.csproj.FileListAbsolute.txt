@@ -1,0 +1,6 @@
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\bin\Release\DTO_QLBanHang.dll
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\bin\Release\DTO_QLBanHang.pdb
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.csproj.AssemblyReference.cache
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.dll
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DTO_QLBanHang\obj\Release\DTO_QLBanHang.pdb

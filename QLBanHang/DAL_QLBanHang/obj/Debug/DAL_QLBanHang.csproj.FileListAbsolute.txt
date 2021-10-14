@@ -1,0 +1,8 @@
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.AssemblyReference.cache
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb
