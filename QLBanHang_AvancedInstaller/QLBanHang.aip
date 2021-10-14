@@ -70,8 +70,8 @@
     <ROW File="BatCuoiTruocNhung07.jpg" Component_="jpg" FileName="BAT-CU~1.JPG|Bat-Cuoi-Truoc-Nhung-07.jpg" Attributes="0" SourcePath="D:\Hoc Hanh\DAMAU\Project\QLBanHang\GUI_QLBanHang\bin\Release\Images\Bat-Cuoi-Truoc-Nhung-07.jpg" SelfReg="false"/>
     <ROW File="Huongdan.txt" Component_="GUI_QLBanHang.exe.config" FileName="Huongdan.txt" Attributes="0" SourcePath="D:\Hoc Hanh\DAMAU\Project\QLBanHang\GUI_QLBanHang\bin\Release\Huongdan.txt" SelfReg="false"/>
     <ROW File="Gioithieu.txt" Component_="GUI_QLBanHang.exe.config" FileName="GIOITH~1.TXT|Gioithieu.txt" Attributes="0" SourcePath="D:\Hoc Hanh\DAMAU\Project\QLBanHang\GUI_QLBanHang\bin\Release\Gioithieu.txt" SelfReg="false"/>
-    <ROW File="DBQLBanHang.ldf" Component_="GUI_QLBanHang.exe.config" FileName="DBQLBA~1.LDF|DBQLBanHang.ldf" Attributes="0" SourcePath="D:\Hoc Hanh\DAMAU\Project\QLBanHang\GUI_QLBanHang\bin\Debug\DBQLBanHang.ldf" SelfReg="false"/>
-    <ROW File="DBQLBanHang.mdf" Component_="GUI_QLBanHang.exe.config" FileName="DBQLBA~1.MDF|DBQLBanHang.mdf" Attributes="0" SourcePath="D:\Hoc Hanh\DAMAU\Project\QLBanHang\GUI_QLBanHang\bin\Debug\DBQLBanHang.mdf" SelfReg="false"/>
+    <ROW File="DBQLBanHang.ldf" Component_="GUI_QLBanHang.exe.config" FileName="DBQLBA~1.LDF|DBQLBanHang.ldf" Attributes="0" SourcePath="..\..\..\..\..\..\..\Program Files (x86)\BemmTeam\QLBanHang\DBQLBanHang.ldf" SelfReg="false"/>
+    <ROW File="DBQLBanHang.mdf" Component_="GUI_QLBanHang.exe.config" FileName="DBQLBA~1.MDF|DBQLBanHang.mdf" Attributes="0" SourcePath="..\..\..\..\..\..\..\Program Files (x86)\BemmTeam\QLBanHang\DBQLBanHang.mdf" SelfReg="false"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.BootstrOptComponent">
     <ROW BootstrOptKey="GlobalOptions" DownloadFolder="[AppDataFolder][|Manufacturer]\[|ProductName]\prerequisites" Options="2"/>
