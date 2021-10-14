@@ -8,3 +8,4 @@ D:\Hoc Hanh\DAMAU\Project\QLBanHang\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj
 D:\Hoc Hanh\DAMAU\Project\QLBanHang\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
 D:\Hoc Hanh\DAMAU\Project\QLBanHang\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
 D:\Hoc Hanh\DAMAU\Project\QLBanHang\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb
+D:\Hoc Hanh\DAMAU\Project\QLBanHang\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CopyComplete
